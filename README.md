@@ -1,6 +1,6 @@
 # Azure-sentinel-honeypot-project
 Azure Cloud Honeypot – Advanced Threat Detection & Brute-Force Analysis
-Azure Sentinel Honeypot Project
+
 
 
 This project demonstrates the end-to-end deployment, configuration, and analysis of a cloud-based honeypot environment within Microsoft Azure. The primary objective was to intentionally expose a vulnerable endpoint to the internet, capture real-world adversarial activity, forward high-value telemetry into a SIEM (Sentinel), and enrich threat data for investigative and attribution purposes.
