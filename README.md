@@ -54,7 +54,7 @@ Centralized detection was achieved by forwarding all Windows security telemetry 
 
 Azure Monitor Agent (AMA): Deployed on the VM; validated for heartbeat and event ingestion.
 
-Data Collection Rule (DCR): Configured to collect all Windows Security Events and filter key authentication attempts for brute-force monitoring.
+Data Collection Rule (DCR): Configured to collect all Windows Security Events and filter key authentication attempts for brute-force monitoring from VM to Microsoft Sentinel.
 
 Sentinel Integration: Workspace onboarded into Azure Sentinel; advanced hunting queries enabled to analyze potential intrusions.
 
