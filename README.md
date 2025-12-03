@@ -69,7 +69,7 @@ Sentinel Integration: Workspace onboarded into Azure Sentinel; advanced hunting 
 
 📌 <img width="1920" height="963" alt="Sentinel Analytics Rule Enabled bonus" src="https://github.com/user-attachments/assets/4845c923-d463-4cc9-8c3e-ab26b9ddaa16" />
 
-This built-in Sentinel analytics rule is enabled and actively monitors incoming logs from the honeypot VM. It detects high-severity, multi-stage attacks and maps to multiple MITRE ATTACK tactics, demonstrating end-to-end threat detection capability in my SOC-level cloud environment.
+This built-in Sentinel analytics rule is enabled and actively monitors incoming logs from the honeypot VM. It detects high-severity, multi-stage attacks and maps to multiple MITRE ATT&CK tactics, demonstrating end-to-end threat detection capability in my SOC-level cloud environment.
 
 
 
