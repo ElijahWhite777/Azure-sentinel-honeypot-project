@@ -135,5 +135,5 @@ Efficient investigation: Centralized logs and queries allow analysts to quickly 
 
 Prioritization of high-severity threats: Helps SOC teams focus resources effectively.
 
-Hands-on SOC experience in a cloud environment: Demonstrates practical skills in SIEM, KQL, and cloud security, which are highly valued by recruiters.
+
 
