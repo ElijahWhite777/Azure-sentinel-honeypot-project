@@ -88,7 +88,7 @@ Authentication failures confirmed no successful compromise.
 
 📌 <img width="1920" height="968" alt="Azure brutforce attack Log analytics" src="https://github.com/user-attachments/assets/ceab8eaa-6f4b-424b-b7d2-e0f639caebdf" />
 
-📌 Insert Security Event 4625 Screenshot
+
 
 5. <h2> Threat Intelligence Enrichment
 
